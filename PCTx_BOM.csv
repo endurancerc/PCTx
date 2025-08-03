@@ -1,0 +1,23 @@
+PCTx/HR PCTx Parts Listing,,,
+,,,
+Schematic Part ID,Mouser Part Number,Manufacturer Part Number,Description
+S1,653-B3F-1000,B3F-1000,Tactile & Jog Switches 6X6 FLAT 4.3mm BTN
+S2,653-B3F-1000,B3F-1000,Tactile & Jog Switches 6X6 FLAT 4.3mm BTN
+R1,576-30R160UPR,30R160UPR,PTC Resettable Fuses 30V RADIAL LDS 1.60A RADIAL LEADS
+R2,291-4.7K-RC,291-4.7K-RC,Carbon Film Resistors - Through Hole 4.7Kohms 0.05
+R6,291-4.7K-RC,291-4.7K-RC,Carbon Film Resistors - Through Hole 4.7Kohms 0.05
+R7,660-MF1/4DC4700F,MF1/4DC4700F,Metal Film Resistors - Through Hole 470ohm 1% 100PPM
+R8,291-2K-RC,291-2K-RC,Carbon Film Resistors - Through Hole 2Kohms 0.05
+C1,581-SR211A150KAR,SR211A150KAR,Multilayer Ceramic Capacitors (MLCC) - Leaded 100volts 15pF 10% C0G
+C2,581-SR211A150KAR,SR211A150KAR,Multilayer Ceramic Capacitors (MLCC) - Leaded 100volts 15pF 10% C0G
+C3,80-C410C104M5U,C410C104M5U5TA,Multilayer Ceramic Capacitors (MLCC) - Leaded 50volts .1uF 20%
+C5,80-C410C104M5U,C410C104M5U5TA,Multilayer Ceramic Capacitors (MLCC) - Leaded 50volts .1uF 20%
+C6,647-UVR1J101MPD1TD,UVR1J101MPD1TD,Aluminum Electrolytic Capacitors - Leaded 63volts 100uF
+C7,140-SEA0R47M1HBK0407,SEA0R47M1HBK-0407P,Aluminum Electrolytic Capacitors - Leaded 50V 0.47uF 20% 4X7mm
+IC1,579-PIC18F4550-I/P,PIC18F4550-I/P,Microcontrollers (MCU) 32kBF 2048RM FSUSB2
+IC1,517-4840-6000-CP,4840-6000-CP,IC & Component Sockets 40P DUAL WIPE DIPSKT
+Q1,815-ABL-20-B2,ABL-20.000MHZ-B2,Crystals +/-20ppm 20MHZ FUNDAMENTAL
+Q2,512-2N4403TFR,2N4403TFR,Bipolar Small Signal PNP Transistor General Purpose
+JP3,,,ICSP: 1 - MCLR 2 - GND 3 - +5V 4 - PGD 5 - PGC
+JP1,,,PPM output: 1 - PPM Out 2 - GND
+JP2,,,USB Connection: 1 - +5V (red) 2 -GND (black) 3 - D+ (green) 4 - D- (white)
