@@ -21,6 +21,10 @@ Requires Device Circuit.
 
 ![alt text](https://github.com/endurancerc/PIC18F4550-PCTx/blob/main/dx6i_PCTx.jpg?raw=true)
 
-![alt text](https://github.com/endurancerc/PIC18F4550-PCTx/blob/main/PCTx_Schematic.jpg?raw=true)
+![alt text](https://github.com/endurancerc/PIC18F4550-PCTx/blob/main/dx6i_PCTx.jpg?raw=true)
+
+![alt text](https://github.com/endurancerc/PCTx_BOM.csv?raw=true)
+
+![alt text](https://github.com/endurancerc/PCTx_instructions.pdf?raw=true)
 
 ---------------------------------------------------------------------------------------------------------------
