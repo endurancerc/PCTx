@@ -18,3 +18,7 @@ The commercial version can be found here:
 Requires Device Circuit.
 
 ---------------------------------------------------------------------------------------------------------------
+
+![alt text](https://github.com/endurancerc/PIC18F4550-PCTx/blob/main/dx6i_PCTx.jpg?raw=true)
+
+---------------------------------------------------------------------------------------------------------------
