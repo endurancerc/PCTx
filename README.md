@@ -25,6 +25,6 @@ Requires Device Circuit.
 
 [PCTx Bill of Materials](https://github.com/endurancerc/PIC18F4550-PCTx/blob/main/PCTx_BOM.csv)
 
-[PCTx Bill of Materials](https://github.com/endurancerc/PIC18F4550-PCTx/blob/main/PCTx_instructions.pdf)
+[PCTx Instructions](https://github.com/endurancerc/PIC18F4550-PCTx/blob/main/PCTx_instructions.pdf)
 
 ---------------------------------------------------------------------------------------------------------------
