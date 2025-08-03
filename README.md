@@ -13,13 +13,11 @@ Build your own PCTx! Once you have flashed the bootloader firmware to your devic
 
 The commercial version can be found here:
 
-        PCTx - http://www.endurance-rc.com/pctx.php
+        [PCTx](http://www.endurance-rc.com/pctx.php)
 
 Requires Device Circuit.
 
 ---------------------------------------------------------------------------------------------------------------
-
-![alt text](https://github.com/endurancerc/PIC18F4550-PCTx/blob/main/dx6i_PCTx.jpg?raw=true)
 
 ![alt text](https://github.com/endurancerc/PIC18F4550-PCTx/blob/main/dx6i_PCTx.jpg?raw=true)
 
