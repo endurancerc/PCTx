@@ -8,8 +8,8 @@
 
 ---------------------------------------------------------------------------------------------------------------
 
-Build your own PCTx! Once you have flashed the bootloader firmware to your device you can upload device
-  firmware using the PICDEM tool. This firmware is for the standard version of the PCTx.
+Build your own PCTx! Once you have your circuit you must flash the bootloader firmware to your device. Upload
+  device firmware using the PICDEM tool.
 
 The commercial version can be found here:
 
